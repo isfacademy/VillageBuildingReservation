@@ -669,6 +669,7 @@
     <Content Include="Views\Bombs\Index.cshtml" />
     <Content Include="Views\Administration\ListOfRoles.cshtml" />
     <Content Include="Views\Administration\EditUserInRole.cshtml" />
+    <Content Include="Views\Reservations\ReservationReport.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

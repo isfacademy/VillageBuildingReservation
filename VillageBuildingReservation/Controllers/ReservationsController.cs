@@ -483,5 +483,25 @@ namespace VillageBuildingReservation.Controllers
             TempData["message"] = MessagingSystem.AddMessage("تم تأكيد الحضور", "danger");
             return RedirectToAction("Index");
         }
+
+        [HttpGet]
+        [Authorize(Roles = "general")]
+        public ActionResult ReservationReport()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult ReservationReport(DateTime StartDate, DateTime EndDate)
+        {
+            ICollection<Reservation> reservations = db.Reservations.Where(m => m.ReservationDate >= StartDate && m.ReservationDate <= EndDate).OrderBy(x => x.ReservationDate).Include(b => b.Bombs).Include(b => b.Blocks).ToList();
+
+            if (StartDate> EndDate)
+            {
+                TempData["message"] = MessagingSystem.AddMessage("يرجى التأكد من التاريخ ", "danger");
+                return View(reservations);
+            }
+
+            return View(reservations);
+        }
     }
 }

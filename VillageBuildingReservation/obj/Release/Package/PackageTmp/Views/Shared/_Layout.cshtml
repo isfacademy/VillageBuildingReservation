@@ -42,7 +42,8 @@
                         {
                             if (User.IsInRole("general"))
                             {
-                                <li>@Html.ActionLink("الحجوزات", "Index", "Reservations", null, new { @class = "listreservationlink" })</li>
+                                <li>@Html.ActionLink("تقرير الحجوزات", "ReservationReport", "Reservations", null, new { @class = "ReservationReport" })</li>
+
                             }
                             else
                                     if (User.IsInRole("SuperAdmin"))
