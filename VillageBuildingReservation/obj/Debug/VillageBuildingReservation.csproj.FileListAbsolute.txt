@@ -216,8 +216,8 @@ C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReserv
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Debug\VillageBuildingReservation.csproj.CopyComplete
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Debug\VillageBuildingReservation.dll
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Debug\VillageBuildingReservation.pdb
-C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Debug\VillageBuildingReservation.csprojAssemblyReference.cache
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Debug\VillageBuildingReservation.csproj.CoreCompileInputs.cache
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Debug\VillageBuildingReservation.Migrations.AddIsAttented.resources
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Debug\VillageBuildingReservation.Migrations.AddIsAttented1.resources
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Debug\VillageBuildingReservation.Migrations.AddFlag.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Debug\VillageBuildingReservation.csproj.AssemblyReference.cache
