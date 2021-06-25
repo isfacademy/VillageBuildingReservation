@@ -8,6 +8,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <_NewBackgroundProfile>True</_NewBackgroundProfile>
     <_PublishTargetUrl>C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\bin\Release\PublishOutput</_PublishTargetUrl>
+    <History>True|2021-06-25T06:10:44.5329584Z;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="ApplicationInsights.config">
@@ -32,31 +33,31 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/30/2016 15:07:42</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.DependencyCollector.dll">
-      <publishTime>12/07/2016 10:45:42</publishTime>
+      <publishTime>07/12/2016 10:45:42</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
-      <publishTime>12/07/2016 10:50:34</publishTime>
+      <publishTime>07/12/2016 10:50:34</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
-      <publishTime>12/06/2016 14:15:48</publishTime>
+      <publishTime>06/12/2016 14:15:48</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Web.dll">
-      <publishTime>12/07/2016 10:49:10</publishTime>
+      <publishTime>07/12/2016 10:49:10</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.WindowsServer.dll">
-      <publishTime>12/07/2016 10:50:34</publishTime>
+      <publishTime>07/12/2016 10:50:34</publishTime>
     </File>
     <File Include="bin/Microsoft.ApplicationInsights.dll">
-      <publishTime>12/06/2016 14:09:52</publishTime>
+      <publishTime>06/12/2016 14:09:52</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
-      <publishTime>04/03/2015 17:07:22</publishTime>
+      <publishTime>03/04/2015 17:07:22</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
-      <publishTime>04/03/2015 17:07:22</publishTime>
+      <publishTime>03/04/2015 17:07:22</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
-      <publishTime>04/03/2015 17:07:22</publishTime>
+      <publishTime>03/04/2015 17:07:22</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>12/13/2016 02:10:32</publishTime>
@@ -89,10 +90,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/13/2015 12:16:42</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
-      <publishTime>01/05/2012 10:08:46</publishTime>
+      <publishTime>05/01/2012 10:08:46</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>08/03/2014 20:33:56</publishTime>
+      <publishTime>03/08/2014 20:33:56</publishTime>
     </File>
     <File Include="bin/Owin.dll">
       <publishTime>11/27/2012 12:00:52</publishTime>
@@ -182,7 +183,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/28/2015 03:02:18</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>02/11/2014 14:26:04</publishTime>
+      <publishTime>11/02/2014 14:26:04</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
       <publishTime>01/28/2015 03:02:32</publishTime>
@@ -197,67 +198,67 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/28/2015 03:04:30</publishTime>
     </File>
     <File Include="bin/VillageBuildingReservation.dll">
-      <publishTime>06/17/2021 12:35:35</publishTime>
+      <publishTime>06/25/2021 09:10:39</publishTime>
     </File>
     <File Include="bin/VillageBuildingReservation.pdb">
-      <publishTime>06/17/2021 12:35:35</publishTime>
+      <publishTime>06/25/2021 09:10:39</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
-      <publishTime>09/10/2013 17:28:38</publishTime>
+      <publishTime>10/09/2013 17:28:38</publishTime>
     </File>
     <File Include="Content/bootstrap-datetimepicker.min.css">
       <publishTime>11/15/2018 12:40:04</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
-      <publishTime>11/09/2018 08:48:01</publishTime>
+      <publishTime>09/11/2018 08:48:01</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css">
-      <publishTime>11/09/2018 08:48:01</publishTime>
+      <publishTime>09/11/2018 08:48:01</publishTime>
     </File>
     <File Include="Content/jquery-ui.css">
       <publishTime>11/19/2018 12:38:49</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/.gitignore">
-      <publishTime>02/07/2017 15:52:12</publishTime>
+      <publishTime>07/02/2017 15:52:12</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/bower.json">
-      <publishTime>02/07/2017 15:52:12</publishTime>
+      <publishTime>07/02/2017 15:52:12</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/css/bootstrap-material-datetimepicker.css">
-      <publishTime>04/03/2018 11:34:32</publishTime>
+      <publishTime>03/04/2018 11:34:32</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/font/Material-Design-Icons.eot">
-      <publishTime>02/07/2017 15:52:12</publishTime>
+      <publishTime>07/02/2017 15:52:12</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/font/Material-Design-Icons.svg">
-      <publishTime>02/07/2017 15:52:12</publishTime>
+      <publishTime>07/02/2017 15:52:12</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/font/Material-Design-Icons.ttf">
-      <publishTime>02/07/2017 15:52:12</publishTime>
+      <publishTime>07/02/2017 15:52:12</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/font/Material-Design-Icons.woff">
-      <publishTime>02/07/2017 15:52:12</publishTime>
+      <publishTime>07/02/2017 15:52:12</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/font/Material-Design-Icons.woff2">
-      <publishTime>02/07/2017 15:52:12</publishTime>
+      <publishTime>07/02/2017 15:52:12</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/index.html">
       <publishTime>03/31/2018 19:48:34</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/js/bootstrap-material-datetimepicker.js">
-      <publishTime>04/03/2018 12:13:30</publishTime>
+      <publishTime>03/04/2018 12:13:30</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/js/moment-with-locales.js">
       <publishTime>03/31/2018 20:20:06</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/LICENSE.md">
-      <publishTime>02/07/2017 15:52:12</publishTime>
+      <publishTime>07/02/2017 15:52:12</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/package.json">
-      <publishTime>02/07/2017 15:52:12</publishTime>
+      <publishTime>07/02/2017 15:52:12</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapMaterialDatePicker/README.md">
-      <publishTime>02/07/2017 15:52:12</publishTime>
+      <publishTime>07/02/2017 15:52:12</publishTime>
     </File>
     <File Include="Content/Lib/BootstrapSelect/css/bootstrap-select.css">
       <publishTime>11/19/2018 09:06:01</publishTime>
@@ -671,109 +672,109 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/27/2018 08:16:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.bootstrap.css">
-      <publishTime>10/05/2018 13:21:32</publishTime>
+      <publishTime>05/10/2018 13:21:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.bootstrap.min.css">
-      <publishTime>10/05/2018 13:21:32</publishTime>
+      <publishTime>05/10/2018 13:21:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.bootstrap4.css">
-      <publishTime>10/05/2018 13:21:32</publishTime>
+      <publishTime>05/10/2018 13:21:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.bootstrap4.min.css">
-      <publishTime>10/05/2018 13:21:32</publishTime>
+      <publishTime>05/10/2018 13:21:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.dataTables.css">
-      <publishTime>10/05/2018 13:21:32</publishTime>
+      <publishTime>05/10/2018 13:21:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.dataTables.min.css">
-      <publishTime>10/05/2018 13:21:32</publishTime>
+      <publishTime>05/10/2018 13:21:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.foundation.css">
-      <publishTime>10/05/2018 13:21:32</publishTime>
+      <publishTime>05/10/2018 13:21:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.foundation.min.css">
-      <publishTime>10/05/2018 13:21:32</publishTime>
+      <publishTime>05/10/2018 13:21:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.jqueryui.css">
-      <publishTime>10/05/2018 13:21:32</publishTime>
+      <publishTime>05/10/2018 13:21:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.jqueryui.min.css">
-      <publishTime>10/05/2018 13:21:32</publishTime>
+      <publishTime>05/10/2018 13:21:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.semanticui.css">
-      <publishTime>10/05/2018 13:21:32</publishTime>
+      <publishTime>05/10/2018 13:21:32</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/buttons.semanticui.min.css">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/common.scss">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/css/mixins.scss">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.bootstrap.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.bootstrap.min.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.bootstrap4.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.bootstrap4.min.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.colVis.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.colVis.min.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.flash.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.flash.min.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.foundation.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.foundation.min.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.html5.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.html5.min.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.jqueryui.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.jqueryui.min.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.print.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.print.min.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.semanticui.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/buttons.semanticui.min.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/dataTables.buttons.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/js/dataTables.buttons.min.js">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Buttons-1.5.4/swf/flashExport.swf">
-      <publishTime>10/05/2018 13:21:34</publishTime>
+      <publishTime>05/10/2018 13:21:34</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/DataTables-1.10.18/css/dataTables.bootstrap.css">
       <publishTime>06/15/2018 08:55:14</publishTime>
@@ -863,16 +864,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/15/2018 08:55:16</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/datatables.css">
-      <publishTime>10/09/2018 14:24:08</publishTime>
+      <publishTime>09/10/2018 14:24:08</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/datatables.js">
-      <publishTime>10/09/2018 14:24:08</publishTime>
+      <publishTime>09/10/2018 14:24:08</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/datatables.min.css">
-      <publishTime>10/09/2018 14:24:08</publishTime>
+      <publishTime>09/10/2018 14:24:08</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/datatables.min.js">
-      <publishTime>10/09/2018 14:24:08</publishTime>
+      <publishTime>09/10/2018 14:24:08</publishTime>
     </File>
     <File Include="Content/Lib/DataTables/Responsive-2.2.2/css/responsive.bootstrap.css">
       <publishTime>06/14/2018 14:15:58</publishTime>
@@ -1127,7 +1128,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/17/2021 14:49:56</publishTime>
     </File>
     <File Include="Media/ma3had.png">
-      <publishTime>12/07/2018 11:14:45</publishTime>
+      <publishTime>07/12/2018 11:14:45</publishTime>
     </File>
     <File Include="Media/Village-reservation-favicon.png">
       <publishTime>03/10/2020 14:13:46</publishTime>
@@ -1148,46 +1149,46 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/13/2018 12:15:33</publishTime>
     </File>
     <File Include="Scripts/bootstrap.min.js">
-      <publishTime>11/09/2018 08:48:01</publishTime>
+      <publishTime>09/11/2018 08:48:01</publishTime>
     </File>
     <File Include="Scripts/function.js">
       <publishTime>01/17/2020 07:07:12</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.js">
-      <publishTime>11/09/2018 08:48:01</publishTime>
+      <publishTime>09/11/2018 08:48:01</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.js">
-      <publishTime>11/09/2018 08:48:01</publishTime>
+      <publishTime>09/11/2018 08:48:01</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.map">
-      <publishTime>11/09/2018 08:48:01</publishTime>
+      <publishTime>09/11/2018 08:48:01</publishTime>
     </File>
     <File Include="Scripts/jquery-ui.min.js">
       <publishTime>11/19/2018 12:38:16</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.js">
-      <publishTime>11/09/2018 08:48:17</publishTime>
+      <publishTime>09/11/2018 08:48:17</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.min.js">
-      <publishTime>11/09/2018 08:48:17</publishTime>
+      <publishTime>09/11/2018 08:48:17</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.js">
-      <publishTime>11/09/2018 08:48:18</publishTime>
+      <publishTime>09/11/2018 08:48:18</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.min.js">
-      <publishTime>11/09/2018 08:48:17</publishTime>
+      <publishTime>09/11/2018 08:48:17</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.6.2.js">
-      <publishTime>11/09/2018 08:48:17</publishTime>
+      <publishTime>09/11/2018 08:48:17</publishTime>
     </File>
     <File Include="Scripts/moment-with-locales.min.js">
       <publishTime>11/19/2018 12:38:16</publishTime>
     </File>
     <File Include="Scripts/respond.js">
-      <publishTime>11/09/2018 08:48:17</publishTime>
+      <publishTime>09/11/2018 08:48:17</publishTime>
     </File>
     <File Include="Scripts/respond.min.js">
-      <publishTime>11/09/2018 08:48:17</publishTime>
+      <publishTime>09/11/2018 08:48:17</publishTime>
     </File>
     <File Include="Views/Account/ConfirmEmail.cshtml">
       <publishTime>02/06/2019 12:48:12</publishTime>
@@ -1277,7 +1278,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/10/2019 08:43:55</publishTime>
     </File>
     <File Include="Views/Manage/Index.cshtml">
-      <publishTime>06/03/2019 11:08:12</publishTime>
+      <publishTime>03/06/2019 11:08:12</publishTime>
     </File>
     <File Include="Views/Manage/ManageLogins.cshtml">
       <publishTime>02/06/2019 12:48:12</publishTime>
@@ -1289,7 +1290,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/06/2019 12:48:12</publishTime>
     </File>
     <File Include="Views/Reservations/Create.cshtml">
-      <publishTime>06/03/2019 09:38:37</publishTime>
+      <publishTime>03/06/2019 09:38:37</publishTime>
     </File>
     <File Include="Views/Reservations/Delete.cshtml">
       <publishTime>05/06/2019 13:38:24</publishTime>
@@ -1298,7 +1299,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/18/2021 08:05:27</publishTime>
     </File>
     <File Include="Views/Reservations/Index.cshtml">
-      <publishTime>02/18/2021 08:03:54</publishTime>
+      <publishTime>06/25/2021 09:06:53</publishTime>
     </File>
     <File Include="Views/Reservations/ReservationReport.cshtml">
       <publishTime>06/17/2021 12:32:33</publishTime>
@@ -1307,10 +1308,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/12/2020 08:47:50</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
-      <publishTime>11/09/2018 08:48:18</publishTime>
+      <publishTime>09/11/2018 08:48:18</publishTime>
     </File>
     <File Include="Views/Shared/Lockout.cshtml">
-      <publishTime>11/09/2018 08:48:19</publishTime>
+      <publishTime>09/11/2018 08:48:19</publishTime>
     </File>
     <File Include="Views/Shared/_AjaxLayout.cshtml">
       <publishTime>03/12/2020 08:56:10</publishTime>

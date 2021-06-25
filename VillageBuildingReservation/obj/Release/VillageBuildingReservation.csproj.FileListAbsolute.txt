@@ -201,7 +201,6 @@ C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReserv
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\bin\Microsoft.AI.Web.xml
-C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Release\VillageBuildingReservation.csprojAssemblyReference.cache
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Release\VillageBuildingReservation.Migrations.Initial.resources
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Release\VillageBuildingReservation.Migrations.Initial1.resources
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Release\VillageBuildingReservation.Migrations.AddReservation.resources
