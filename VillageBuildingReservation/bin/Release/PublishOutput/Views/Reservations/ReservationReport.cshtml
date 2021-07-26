@@ -98,15 +98,16 @@
                 // only reservation Empty and need barkya
                 if (isEmpty && item.IsNeedBarkya)
                 {
-                    backcolor = "orange"; //red - yellow -- > orange
+                    backcolor = "#ffdb99"; //red - yellow -- > orange
                 }
+                // reservation without building and no need barkya
                 if (isEmpty && !item.IsNeedBarkya)
                 {
-                    backcolor = "yellow"; //  yellow
+                    backcolor = "#ffff9f"; //  yellow
                 }
                 if (!isEmpty && item.IsNeedBarkya)
                 {
-                    backcolor = "red"; // red
+                    backcolor = "#ff9f9f"; // light red
                 }
                 if (!isEmpty && !item.IsNeedBarkya)
                 {

@@ -13,31 +13,63 @@
     <p>
         @Html.ActionLink("اضافة عتاد", "create", "", new { @class = "action_link" })
     </p>
-    <table class="table">
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Name)
-            </th>
-            <th></th>
-        </tr>
-
-        @foreach (var item in Model)
-        {
+    <table class="table dataTable" id="BombsTable">
+        <thead>
             <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Name)
-                </td>
-                <td>
-                    @Html.ActionLink("تعديل", "Edit", new { id = item.Id }) 
-                    @*@Html.ActionLink("Delete", "Delete", new { id = item.Id })*@
-                </td>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th></th>
             </tr>
-        }
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.ActionLink("تعديل", "Edit", new { id = item.Id })
+                        @*@Html.ActionLink("Delete", "Delete", new { id = item.Id })*@
+                    </td>
+                </tr>
+            }
+        </tbody>
 
     </table>
 }
 @section Scripts{
+    @Scripts.Render("~/bundles/DataTables")
+
+
     <script>
         $('.listbomblink').addClass("active");
     </script>
+
+    <script>
+        $(document).ready(function () {
+            if ($(".dataTable").length > 0) {
+                $('.dataTable').DataTable({
+                    "order": [],
+                    "pageLength": 100,
+                    "language": DataTablesLang,
+                    "columnDefs": [{
+                        "targets": 'no-sort',
+                        "orderable": false
+
+                    }]
+                });
+            }
+        });
+    </script>
+}
+@section Styles {
+    @Styles.Render("~/Content/DataTables")
+<style>
+    body {
+        direction :rtl !important;
     }
+   
+    </style>
+}

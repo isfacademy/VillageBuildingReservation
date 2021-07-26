@@ -50,8 +50,11 @@ namespace VillageBuildingReservation.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Bombs.Add(bombs);
-                db.SaveChanges();
+                if (!String.IsNullOrEmpty(bombs.Name))
+                {
+                    db.Bombs.Add(bombs);
+                    db.SaveChanges();
+                }
                 return RedirectToAction("Index");
             }
 

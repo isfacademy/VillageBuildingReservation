@@ -220,3 +220,4 @@ C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReserv
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Release\VillageBuildingReservation.Migrations.AddIsAttented1.resources
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Release\VillageBuildingReservation.csproj.CoreCompileInputs.cache
 C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Release\VillageBuildingReservation.Migrations.AddFlag.resources
+C:\Users\DAMAJ-PC\Documents\Visual Studio 2017\Projects 17\VillageBuildingReservation\VillageBuildingReservation\obj\Release\VillageBuildingReservation.csproj.AssemblyReference.cache
